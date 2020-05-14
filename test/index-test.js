@@ -44,4 +44,4 @@ describe('index', () => {
     })
   })
 })
-console.console.error('no way');
+console.error('no way');
